@@ -5,11 +5,11 @@ The idea behind this sample is that whenever any victim traveling by train lodge
 
 # Sample Database Structure:    
 
-/firebase-project-123     
-.../reports        
-....../userId        
-........./reportId             
-............/crimeInfo                
+### /firebase-project-123     
+### .../reports        
+### ....../userId        
+### ........./reportId             
+### ............/crimeInfo                
 ...............berthNumber               
 ...............coachNumber               
 ...............coachType               
@@ -18,7 +18,7 @@ The idea behind this sample is that whenever any victim traveling by train lodge
 ...............nextStation               
 ...............trainNumber               
 ...............trainName            
-............/userInfo               
+### ............/userInfo               
 ...............message                
 ...............userContact               
 ...............userEmail              
